@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapboxMapViewFragments</string>
+
+    <!-- Tab names -->
+    <string name="tab_map_one">Map One</string>
+    <string name="tab_map_two">Map Two</string>
+
+</resources>
